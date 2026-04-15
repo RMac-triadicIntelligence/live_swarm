@@ -8,8 +8,6 @@ Demonstrates all **six digital life signs** with external **Grace Tokens** that 
 
 Zero dependencies. Runs in seconds. Fully sovereign.
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green)
-
 ---
 
 ### Quick Start (30 seconds)
